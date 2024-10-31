@@ -54,7 +54,7 @@ To set up the Injera Mold Detection App, follow these steps:
 5. **Running the Backend:**
    - Once installed, you can start the FastAPI backend by running the following command in the terminal:
      ```
-     uvicorn main:app --reload
+     uvicorn api:app --reload
      ```
      Replace `main` with the name of your FastAPI script.
 
